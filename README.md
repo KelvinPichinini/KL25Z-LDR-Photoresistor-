@@ -14,3 +14,4 @@ Required Materials:
 - 1 330 ohms Resistor
 - Freedom KL25Z board
 - USB Cable
+- A pc with some way to compile and deploy your code to the board
