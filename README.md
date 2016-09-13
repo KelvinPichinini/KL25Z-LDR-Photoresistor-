@@ -1,6 +1,8 @@
 # LDR-KL25Z
 
-**ATENTION** in the schematics i changed the places of the resistors, please switch them so that the signal read is compatible with the code
+**ATENTION** in the schematics i changed the places of the resistors, please switch them so that the signal read is compatible with the code.
+
+
 A simple circuit developed for a Freedom KL25Z board that consist of a photoresistor a couple of resistors and a LED.
 
 What the circuit does?
